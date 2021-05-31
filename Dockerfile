@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER cyan <cyan@0x00a1e9.dev>
+MAINTAINER yas-nyan <yas-nyan@sfc.wide.ad.jp>
 
 RUN rm /bin/sh && ln -s /bin/bash /bin/sh
 
